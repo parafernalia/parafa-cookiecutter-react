@@ -1,0 +1,12 @@
+export const BEGIN_AJAX_CALL = 'BEGIN_AJAX_CALL'
+export const END_AJAX_CALL = 'END_AJAX_CALL'
+
+export const SET_CURRENT_USER = 'SET_CURRENT_USER'
+
+export const LOGIN_REQUEST = 'LOGIN_REQUEST'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_FAILURE = 'LOGIN_FAILURE'
+
+export const DATA_REQUEST = 'DATA_REQUEST'
+export const DATA_SUCCESS = 'DATA_SUCCESS'
+export const DATA_FAILURE = 'DATA_FAILURE'
